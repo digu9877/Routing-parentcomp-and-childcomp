@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+/*.colorStyleClass{
+  color: red;
+}
+
+.boldStyleClass{
+  font-weight: bold;
+}
+
+.obliqueStyleClass{
+  font-style: oblique;
+}
+
+.variantStyleClass{
+  font-variant: small-caps;
+}
+*/
+h1{
+  color: rgb(2, 3, 51);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+
+table{
+  color: rgb(4, 4, 48);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  border-collapse: collapse;
+}
+
+td{
+  border: 1px solid blueviolet;
+}
+
+tr.header{
+  background-color: lightgreen;
+}
